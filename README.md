@@ -45,9 +45,6 @@ Expected Result : First difference between two strings at position 5: "a" vs "o"
 Sample strings : "Twinkle, twinkle, little star,\nHow I wonder what you are.\nUp above the world so high,\nLike a diamond in the sky.";
 Expected Result (using var_dump()) : array(4) { [0]=> string(30) "Twinkle, twinkle, little star," [1]=> string(26) "How I wonder what you are." [2]=> string(27) "Up above the world so high," [3]=> string(26) "Like a diamond in the sky." }
  
- 
- 
- 
 11. Write a PHP script to print the next character of a specific character. 
 Sample character : 'a'
 Expected Output : 'b'
@@ -62,41 +59,42 @@ Expected Output : 'example.com'
 Original String : 'The brown fox'
 Insert 'quick' between 'The' and 'brown'.
 Expected Output : 'The quick brown fox'
-18. Write a PHP script to get the first word of a sentence. 
+
+14. Write a PHP script to get the first word of a sentence. 
 Original String : 'The quick brown fox'
 Expected Output : 'The'
  
-14. Write a PHP script to remove all leading zeroes from a string. 
+15. Write a PHP script to remove all leading zeroes from a string. 
 Original String : '000547023.24'
 Expected Output : '547023.24'
  
-15. Write a PHP script to remove part of a string. 
+16. Write a PHP script to remove part of a string. 
 Original String : 'The quick brown fox jumps over the lazy dog'
 Remove 'fox' from the above string.
 Expected Output : 'The quick brown jumps over the lazy dog'
  
  
-16. Write a PHP script to remove trailing slash from a string. 
+17. Write a PHP script to remove trailing slash from a string. 
 Original String : 'The quick brown fox jumps over the lazy dog///'
 Expected Output : 'The quick brown fox jumps over the lazy dog'
  
-17. Write a PHP script to get the characters after the last '/' in an url. 
+18. Write a PHP script to get the characters after the last '/' in an url. 
 Sample URL : 'http://www.example.com/5478631'
 Expected Output : '5478631'
  
-18. Write a PHP script to replace Special  characters from the following string. 
+19. Write a PHP script to replace Special  characters from the following string. 
 Sample String : '\"\1+2/3*2:2-3/4*3'
 Expected Output : '1 2 3 2 2 3 4 3'
  
-19. Write a PHP script to select first 5 words from the following string. 
+20. Write a PHP script to select first 5 words from the following string. 
 Sample String : 'The quick brown fox jumps over the lazy dog'
 Expected Output : 'The quick brown fox jumps'
  
-20. Write a PHP script to remove comma(s) from the following numeric string. 
+21. Write a PHP script to remove comma(s) from the following numeric string. 
 Sample String : '2,543.12'
 Expected Output : 2543.12
  
-21. Write a PHP script to print letters from 'a' to 'z'. 
+22. Write a PHP script to print letters from 'a' to 'z'. 
 
 
 
